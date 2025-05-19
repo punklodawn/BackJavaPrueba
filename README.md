@@ -20,20 +20,20 @@ Cumple con los requisitos técnicos usando Spring Boot, OpenAPI/Swagger, validac
 
 
 ## 📁 Estructura del Proyecto
-
-src/
-└── main/
-    ├── java/
-    │   └── com/ejemplo/personas_api/
-    │       ├── controller/
-    │       ├── DTOs/
-    │       ├── mapper/
-    │       ├── model/
-    │       ├── repository/
-    │       ├── service/
-    │       └── PersonasApiApplication.java
-    └── resources/
-        └── application.properties
+    ```bash
+    src/
+    └── main/
+        ├── java/
+        │   └── com/ejemplo/personas_api/
+        │       ├── controller/
+        │       ├── DTOs/
+        │       ├── mapper/
+        │       ├── model/
+        │       ├── repository/
+        │       ├── service/
+        │       └── PersonasApiApplication.java
+        └── resources/
+            └── application.properties
 
 
 ## ✅ Funcionalidades Implementadas
