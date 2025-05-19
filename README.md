@@ -20,7 +20,7 @@ Cumple con los requisitos técnicos usando Spring Boot, OpenAPI/Swagger, validac
 
 
 ## 📁 Estructura del Proyecto
-    ```bash
+    
     src/
     └── main/
         ├── java/
