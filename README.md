@@ -57,7 +57,6 @@ Cumple con los requisitos técnicos usando Spring Boot, OpenAPI/Swagger, validac
 
 
 #### Configuración:
-    ```properties
     person.max-movies=5
 
 
