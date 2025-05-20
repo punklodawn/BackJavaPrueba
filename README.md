@@ -54,3 +54,15 @@ Cumple con los requisitos técnicos usando Spring Boot, OpenAPI/Swagger, validac
 - `DELETE /personas/{id}/movies?title=nombre`: Quitar una película por título
 
 ---
+
+
+#### Configuración:
+    ```properties
+    person.max-movies=5
+
+
+## 🧾 Autor
+Miguel
+
+GitHub: @punklodawn
+
